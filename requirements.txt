@@ -1,0 +1,7 @@
+requests
+yfinance
+google-genai
+anthropic
+openai
+groq
+python-dotenv
